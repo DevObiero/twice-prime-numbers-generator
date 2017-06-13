@@ -1,4 +1,3 @@
-package ke.george.news.aggregation;
 
 /**
  * A java class that generates twice prime numbers e.g 11,13,17,23,31,37,53,71,73
